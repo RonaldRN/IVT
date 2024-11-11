@@ -1,2 +1,2 @@
 # IVT
-Este repositório contém código em Python .py para o cálculo e plotagem do transporte de umidade verticalmente integrado (IVT) sobre América do Sul. 
+Este repositório contém código em Python .py para o cálculo e plotagem do transporte de umidade verticalmente integrado (IVT) sobre América do Sul. Faz o cálculo e plotagem das climatologias mensais, sazonais do IVT e da precipitação com dados do produto de precipitação acumulada mensal do IMERG. Além disso, faz o cálculo e plotagem das anomalias do IVT e precipitação sazonal para evento de La Niña e El Niño. Finalmente, faz a plotagem das tendências do IVT do período 2001-2020 atráves do test estatístico de Mann-Kedall.  
